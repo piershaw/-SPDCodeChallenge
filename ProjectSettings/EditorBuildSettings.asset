@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/hexagon.unity
+    path: Assets/Scenes/hexagon.unity
     guid: fc0bf74dc38044ce28ccba3b4b14d689
   m_configObjects: {}
